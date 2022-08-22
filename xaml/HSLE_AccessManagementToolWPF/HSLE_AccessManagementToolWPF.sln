@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HSLE_AccessManagementToolWPF", "HSLE_AccessManagementToolWPF\HSLE_AccessManagementToolWPF.csproj", "{ED1D84F0-424B-4CF1-9109-5D86D28CFA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1D84F0-424B-4CF1-9109-5D86D28CFA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1D84F0-424B-4CF1-9109-5D86D28CFA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1D84F0-424B-4CF1-9109-5D86D28CFA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1D84F0-424B-4CF1-9109-5D86D28CFA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD3F60F-7A37-4DCE-B940-D839C7D5C271}
+	EndGlobalSection
+EndGlobal

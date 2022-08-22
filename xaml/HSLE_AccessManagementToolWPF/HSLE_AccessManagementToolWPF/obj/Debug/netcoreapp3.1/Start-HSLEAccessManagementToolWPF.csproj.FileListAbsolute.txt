@@ -1,0 +1,15 @@
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF.csproj.AssemblyReference.cache
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\FlyOutDesign.baml
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\resources\custom.baml
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\resources\Icons.baml
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\App.baml
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\FlyOutDesign.g.cs
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF_MarkupCompile.cache
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF.g.resources
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF.AssemblyInfoInputs.cache
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF.AssemblyInfo.cs
+D:\DataCompany\pschwab\OneDrive - Huisman Equipment B.V\Git\hsle-engineering\deploy\New-ADAccount\xaml\New-ADAccountWPF\New-ADAccountWPF\obj\Debug\netcoreapp3.1\Start-HSLEAccessManagementToolWPF.csproj.CoreCompileInputs.cache

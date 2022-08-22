@@ -1,0 +1,93 @@
+{
+    "Location": [
+        {
+            "Name": "Brasil",
+            "OUPath": "OU=Navegantes,OU=Brasil,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-br.com",
+            "ExternalPhoneNumber": "+55 47 3406",
+            "ADGroups": [
+                "Everyone Group HB",
+                "NAV01-Users",
+                "NAV01_GG-Database"
+            ]
+        },
+        { 
+            "Name": "China",
+            "OUPath": "OU=Zhangzhou,OU=China,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-cn.com",
+            "ExternalPhoneNumber": "+86 059 6685",
+            "ADGroups": ""
+        },
+        { 
+            "Name": "Czech Republic",
+            "OUPath": "OU=Sviadnov,OU=Czech,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-cz.com",
+            "ExternalPhoneNumber": "+420 558 44",
+            "ADGroups": ""
+        },
+        { 
+            "Name": "Netherlands",
+            "OUPath": "OU=Schiedam,OU=Netherlands,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-nl.com",
+            "ExternalPhoneNumber": "+31 8 8070",
+            "ADGroups": ""
+        },
+        { 
+            "Name": "Norway",
+            "OUPath": "OU=Bergen,OU=Norway,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-no.com",
+            "ExternalPhoneNumber": "+31 8 8070",
+            "ADGroups": ""
+        },
+        { 
+            "Name": "United States",
+            "OUPath": "OU=Rosenberg,OU=United States,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-na.com",
+            "ExternalPhoneNumber": "+1 83 2490",
+            "ADGroups": [
+                "HOU01-Users",
+                "Everyone Group HU",
+                "HOU01_UG-SHAREPOINT"
+            ]
+        },
+        { 
+            "Name": "Singapore",
+            "OUPath": "OU=Singapore,OU=Singapore,OU=Internal,OU=Users,OU=Huisman Global,DC=HSLE,DC=local",
+            "Domain": "@huisman-sg.com",
+            "ExternalPhoneNumber": "",
+            "ADGroups": ""
+        }
+
+    ],
+
+    "DefaultADGroups":[
+        {
+            "Default":[
+                "SCH01_LG-Home Drive Mapping",
+                "WE-AZU01-RES-O365-LIC-EMS",
+                "HWW01-RES-M365-LIC-Skype",
+                "HWW01-RES-O365-LIC-EMS",
+                "HWW01-RES-O365-LIC-E3-Default",
+                "HWW01-GG-W10 policies Users",
+                "HWW01-RES-O365-MailBackup",
+                "HWW01-RES-Zscaler-Default"
+            ],
+
+            "CSEngineer":[
+                "_G-Control Systems",
+                "_G-Service",
+                "HWW01-Siemens-Step7-Users",
+                "HWW01-UltraVNC-Users",
+                "HWW01-Microsoft_Visual_SourceSafe-Users",
+                "HWW01-GG-LocalAdmin",
+                "HWW01-VMWare_Workstation_Player-Users",
+                "HWW01-ZWSOFT_ZWCAD-Users",
+                "HWW01-Teamviewer-Users",
+                "HWW01-RES-Zscaler-CSC-Caution",
+                "HWW01-Oracle_Java_Install-Users"
+            ]
+
+        }
+    ]
+
+}
